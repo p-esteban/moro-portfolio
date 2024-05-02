@@ -247,6 +247,10 @@ th {
   font-family: webflow-icons !important
 }
 
+.foto {
+  weight: 20px
+}
+
 .w-icon-slider-right:before {
   content: ""
 }
